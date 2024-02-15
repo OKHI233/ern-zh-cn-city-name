@@ -1,0 +1,6 @@
+ferry_data: ferry.wischhafen
+{
+	ferry_name: "Wischhafen"
+	ferry_name_localized: "@@wischhafen.ern@@"
+	cutscene: rferry1
+}

@@ -1,0 +1,6 @@
+ferry_data: ferry.glueckstadt
+{
+	ferry_name: "Glückstadt"
+	ferry_name_localized: "@@glueckstadt.ern@@"
+	cutscene: rferry2
+}

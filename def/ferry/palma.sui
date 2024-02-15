@@ -1,0 +1,5 @@
+ferry_data: ferry.palma
+{
+	ferry_name: "Palma - Porto Pí"
+	ferry_name_localized: "@@palmaf@@"
+}
