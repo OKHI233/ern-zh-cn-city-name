@@ -1,0 +1,265 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	#CITIES
+		key[]: "aarhus"
+		val[]: "奥胡斯"
+
+		key[]: "bergenruegen"
+		val[]: "吕根岛贝尔根"
+
+		key[]: "binz"
+		val[]: "宾茨"
+
+		key[]: "boleslav"
+		val[]: "姆拉达-博莱斯拉夫"
+
+		key[]: "bolzano"
+		val[]: "博尔扎诺"
+
+		key[]: "bram"
+		val[]: "布拉姆"
+
+		key[]: "bremerhaven"
+		val[]: "不来梅哈芬"
+
+		key[]: "bressanone"
+		val[]: "布雷萨诺内"
+
+		key[]: "brocken"
+		val[]: "布罗肯峰"
+
+		key[]: "budapest"
+		val[]: "布达佩斯"
+
+		key[]: "cbudejovice"
+		val[]: "捷克布杰约维采"
+
+		key[]: "cuxhaven"
+		val[]: "库克斯港"
+
+		key[]: "deutz"
+		val[]: "科隆-多伊茨"
+
+		key[]: "dorfmark"
+		val[]: "多夫马克"
+
+		key[]: "fie"
+		val[]: "菲埃阿洛希利亚尔"
+
+		key[]: "flensburg"
+		val[]: "弗伦斯堡"
+
+		key[]: "forst"
+		val[]: "劳西茨地区福斯特"
+
+		key[]: "garmisch"
+		val[]: "加米施-帕滕基兴"
+
+		key[]: "glueckstadt"
+		val[]: "格吕克施塔特"
+
+		key[]: "goerlitz"
+		val[]: "勒包"
+
+		key[]: "hamburg"
+		val[]: "汉堡"
+
+		key[]: "hauning_soell"
+		val[]: "豪宁索尔"
+
+		key[]: "hemmoor"
+		val[]: "黑莫尔"
+
+		key[]: "hobro"
+		val[]: "霍布罗"
+
+		key[]: "hoppegarten"
+		val[]: "霍珀加滕"
+
+		key[]: "hörby"
+		val[]: "赫比"
+
+		key[]: "ibiza"
+		val[]: "伊维萨"
+
+		key[]: "jihlava"
+		val[]: "伊赫拉瓦"
+
+		key[]: "karkkila"
+		val[]: "卡尔基拉"
+
+		key[]: "koln"
+		val[]: "科隆"
+
+		key[]: "liberec"
+		val[]: "利贝雷茨"
+
+		key[]: "liege"
+		val[]: "列日"
+
+		key[]: "merano"
+		val[]: "梅拉诺"
+
+		key[]: "mirosovice"
+		val[]: "米罗索维采"
+
+		key[]: "northeim"
+		val[]: "诺特海姆"
+
+		key[]: "oldenburg"
+		val[]: "奥尔登堡"
+
+		key[]: "palma"
+		val[]: "帕尔马"
+
+		key[]: "perpignan"
+		val[]: "佩皮尼昂"
+
+		key[]: "prora"
+		val[]: "普洛拉度假村"
+
+		key[]: "querfurt"
+		val[]: "奎尔富特"
+
+		key[]: "randers"
+		val[]: "兰讷斯"
+
+		key[]: "rothensee"
+		val[]: "罗腾湖"
+
+		key[]: "rudersdorf"
+		val[]: "柏林附近吕德斯多夫"
+
+		key[]: "saalfelden"
+		val[]: "石海山麓萨尔费尔登"
+
+		key[]: "sassnitz"
+		val[]: "萨斯尼茨"
+
+		key[]: "schandau"
+		val[]: "巴特尚道"
+
+		key[]: "schierke"
+		val[]: "席尔克"
+
+		key[]: "schmilka"
+		val[]: "施米尔卡"
+
+		key[]: "schoenefeld"
+		val[]: "舍讷费尔德"
+
+		key[]: "schonefeld"
+		val[]: "舍讷费尔德"
+
+		key[]: "stovring"
+		val[]: "斯特乌灵"
+
+		key[]: "stralsund"
+		val[]: "施特拉尔松德"
+
+		key[]: "tonder"
+		val[]: "岑讷"
+
+		key[]: "tribsees"
+		val[]: "特里布塞斯"
+
+		key[]: "turow"
+		val[]: "谢尼亚夫卡"
+
+		key[]: "urjala"
+		val[]: "乌尔亚拉"
+
+		key[]: "varde"
+		val[]: "瓦德"
+
+		key[]: "vetschau"
+		val[]: "施普雷林山费乔"
+
+		key[]: "vierzon"
+		val[]: "维耶尔宗"
+
+		key[]: "visselhovede"
+		val[]: "菲瑟尔赫沃德"
+
+		key[]: "vogelsdorf"
+		val[]: "福格尔斯多夫"
+
+		key[]: "walsrode"
+		val[]: "瓦尔斯罗德"
+
+		key[]: "wernigerode"
+		val[]: "韦尼格罗德"
+
+		key[]: "whv"
+		val[]: "威廉港"
+
+		key[]: "wiek"
+		val[]: "维克"
+
+		key[]: "wischhafen"
+		val[]: "维施哈芬"
+
+		key[]: "ystad"
+		val[]: "于斯塔德"
+
+		key[]: "zgorzelec"
+		val[]: "兹戈热莱茨"
+
+		key[]: "zittau"
+		val[]: "齐陶"
+
+	#FERRIES
+		key[]: "barcelona"
+		val[]: "巴塞罗那"
+
+		key[]: "bonifaciof"
+		val[]: "博尼法乔"
+
+		key[]: "glewitz"
+		val[]: "格莱维茨"
+
+		key[]: "glueckstadt.ern"
+		val[]: "格吕克施塔特"
+
+		key[]: "ibizaf"
+		val[]: "伊维萨"
+
+		key[]: "mukran"
+		val[]: "新木兰"
+
+		key[]: "palmaf"
+		val[]: "帕尔马 - 皮港"
+
+		key[]: "palmadem"
+		val[]: "帕尔马 - 港口"
+
+		key[]: "rostockb"
+		val[]: "罗斯托克海外港西南部"
+
+		key[]: "rostockc"
+		val[]: "罗斯托克海外港东部"
+
+		key[]: "santateresa"
+		val[]: "圣特雷莎-加卢拉"
+
+		key[]: "stahlbrode"
+		val[]: "斯塔尔布罗德"
+
+		key[]: "trent"
+		val[]: "特伦特"
+
+		key[]: "wiekf"
+		val[]: "维克"
+
+		key[]: "wischhafen.ern"
+		val[]: "维施哈芬"
+
+		key[]: "ystadf"
+		val[]: "于斯塔德"
+
+
+}
+}

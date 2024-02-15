@@ -1,0 +1,242 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	key[]: "ls_balkan_e_01"
+	val[]: "罗斯托克海外港口, 德国"
+	
+	key[]: "ls_balkan_e_02"
+	val[]: "利贝雷茨, 捷克共和国"
+			
+	key[]: "ls_balkan_e_03"
+	val[]: "费乔, 德国"
+
+	key[]: "ls_balkan_e_04"
+	val[]: "科隆, 德国"
+	
+	key[]: "ls_balkan_e_05"
+	val[]: "福斯特, 德国"	
+	
+	key[]: "ls_balkan_e_06"
+	val[]: "A61 埃尔夫特施塔特, 德国"
+	
+	key[]: "ls_balkan_e_07"
+	val[]: "科隆-多伊茨, 德国"
+	
+#	key[]: "ls_balkan_e_08"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balkan_e_09"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balkan_e_10"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balkan_e_11"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balkan_e_12"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balkan_e_13"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_01"
+#	val[]: "Location, Country"
+	
+	key[]: "ls_balt_02"
+	val[]: "弗伦斯堡, 德国"
+	
+	key[]: "ls_balt_03"
+	val[]: "汉堡（科尔布兰德桥）, 德国"
+	
+	key[]: "ls_balt_04"
+	val[]: "格吕克施塔特, 德国"
+	
+	key[]: "ls_balt_05"
+	val[]: "库克斯港, 德国"
+	
+	key[]: "ls_balt_06"
+	val[]: "奥胡斯, 丹麦"
+	
+	key[]: "ls_balt_07"
+	val[]: "不来梅哈芬, 德国"
+	
+#	key[]: "ls_balt_08"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_09"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_10"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_11"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_12"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_balt_13"
+#	val[]: "Location, Country"
+
+	key[]: "ls_base_01"
+	val[]: "黑莫尔, 德国"
+	
+	key[]: "ls_base_02"
+	val[]: "A27, 德国"
+	
+	key[]: "ls_base_03"
+	val[]: "席尔克, 德国"
+	
+	key[]: "ls_base_04"
+	val[]: "布罗肯峰, 德国"
+	
+	key[]: "ls_base_05"
+	val[]: "罗腾湖, 德国"
+	
+#	key[]: "ls_base_06"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_07"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_08"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_09"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_10"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_06"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_11"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_12"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_13"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_14"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_15"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_16"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_base_17"
+#	val[]: "Location, Country"
+
+	key[]: "ls_east_01"
+	val[]: "列日, 比利时"
+	
+	key[]: "ls_east_02"
+	val[]: "诺特海姆湖, 德国"
+	
+#	key[]: "ls_east_03"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_east_04"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_east_05"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_france_01"
+#	val[]: "斯图加特-德格洛克, 德国"
+	
+#	key[]: "ls_france_02"
+#	val[]: "南奥胡斯, 丹麦"
+	
+#	key[]: "ls_france_03"
+#	val[]: "卡尔基拉, 芬兰"
+	
+#	key[]: "ls_france_04"
+#	val[]: "韦尼格罗德, 德国"
+
+#	key[]: "ls_france_05"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_01"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_02"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_03"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_04"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_05"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_06"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_07"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_08"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_09"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_10"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_11"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_12"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_iberia_13"
+#	val[]: "Location, Country"
+
+	key[]: "ls_italy_01"
+	val[]: "BER 柏林勃兰登堡维利勃兰特机场, 德国"
+	
+	key[]: "ls_italy_02"
+	val[]: "乌尔亚拉, 芬兰"
+	
+	key[]: "ls_italy_03"
+	val[]: "布拉迪斯拉发, 斯洛伐克"
+	
+	key[]: "ls_italy_04"
+	val[]: "柏林, 德国"
+	
+	key[]: "ls_italy_05"
+	val[]: "伊维萨, 西班牙"
+
+#	key[]: "ls_italy_06"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_scandinavia_01"
+#	val[]: "Location, Country"
+
+	key[]: "ls_scandinavia_02"
+	val[]: "博尼法乔, 法国"
+	
+	key[]: "ls_scandinavia_03"
+	val[]: "霍珀加滕, 德国"
+	
+#	key[]: "ls_scandinavia_04"
+#	val[]: "Location, Country"
+
+#	key[]: "ls_scandinavia_05"
+#	val[]: "Location, Country"
+
+
+}
+}
