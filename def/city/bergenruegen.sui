@@ -1,0 +1,67 @@
+
+city_data : city.bergenruegen
+{
+	city_name: "Bergen auf Rügen"
+	city_name_localized: "@@bergenruegen@@"
+	country: germany
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -10
+	map_x_offsets[]: -42
+	map_x_offsets[]: -37
+	map_x_offsets[]: -34
+	map_x_offsets[]: -38
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -34
+	map_y_offsets[]: -28
+	map_y_offsets[]: -22
+	map_y_offsets[]: 6
+
+
+	license_plate[]: .bergenruegen.lp.car
+}
+
+license_plate_data : .bergenruegen.lp.car
+{
+	type: car
+
+	templates[]: "RÜG033 21"
+
+	def0[]: "<offset hshift=4 vshift=-5><img src=/material/ui/lp/germany/b.mat color=FFFFFFFF><offset hshift=4 vshift=5>"
+
+	def1[]: "1"
+	def1[]: "2"
+	def1[]: "3"
+	def1[]: "5"
+	def1[]: "6"
+	def1[]: "7"
+	def1[]: "9"
+	def1[]: "0"
+
+	def2[]: "5"
+	def2[]: "6"
+	def2[]: "7"
+
+	def3[]: "E"
+	def3[]: "E"
+	def3[]: "E"
+	def3[]: "N"
+	def3[]: "N"
+	def3[]: "N"
+	def3[]: "M"
+	def3[]: "G"
+	def3[]: "O"
+	def3[]: "P"
+	def3[]: "R"
+	def3[]: "T"
+	def3[]: "U"
+	def3[]: "V"
+	def3[]: "W"
+	def3[]: "X"
+}

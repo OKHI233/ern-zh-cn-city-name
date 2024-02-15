@@ -1,0 +1,28 @@
+
+city_data : city.liege
+
+{
+	city_name: "Liège"
+	city_name_localized: "@@liege@@"
+	country: belgium
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -20
+	map_x_offsets[]: -20
+	map_x_offsets[]: -33
+	map_x_offsets[]: -34
+	map_x_offsets[]: -31
+	map_x_offsets[]: -36
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 68
+	map_y_offsets[]: -14
+	map_y_offsets[]: -2
+	map_y_offsets[]: -15
+	map_y_offsets[]: -3
+	map_y_offsets[]: -28
+
+	vehicle_brands[]: "volvo"
+}

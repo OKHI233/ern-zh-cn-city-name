@@ -1,0 +1,38 @@
+
+city_data: city.zittau
+{
+	city_name: "Zittau"
+	city_name_localized: "@@zittau@@"
+	country: germany
+	
+	## City pin and name scale factor sets size of city pin and name text on UI map.
+	## Valid values: (0;2> default value 1.0. Default pin size on UI map 24px X 24px.
+	#
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 0.9  // close zoom for minimap
+	city_pin_scale_factor[]: 0.9  // far zoom for minimap
+	city_pin_scale_factor[]: 1.0  // city zoom for world map
+	city_pin_scale_factor[]: 1.0  // closest zoom for world map
+	city_pin_scale_factor[]: 0.9  // middle zoom for world map
+	city_pin_scale_factor[]: 0.9  // whole world map zoom
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -400
+	map_x_offsets[]: -100
+	map_x_offsets[]: -50
+	map_x_offsets[]: -10
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 200
+	map_y_offsets[]: 25
+	map_y_offsets[]: 5
+	map_y_offsets[]: -15
+}
+
