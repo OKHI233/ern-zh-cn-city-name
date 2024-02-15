@@ -1,0 +1,17 @@
+[orange]----- English -----
+[orange]EuRoadNet Chinese (Simplified) City Name V1.5
+[normal]A little add-on for EuRoadNet that makes Chinese (Simplified) localization works...
+[green]To make it works, you need to put it above EuRoadNet in the mod manager.  
+[normal]The thread link of EuRoadNet: [blue]https://forum.scssoft.com/viewtopic.php?t=281488
+[normal]You can share this mod to others with the link below.
+[blue]https://truckymods.io/euro-truck-simulator-2/map-patches/euroadnet-chinese-simplified-city-name 
+[red]DO NOT RE-UPLOAD OR SELL THIS MOD! 
+
+[orange]----- 中文（简体） -----
+[orange]EuRoadNet中文（简体）城市名 V1.5
+[normal]一个用于EuRoadNet的小插件，让中文（简体）本地化起作用...
+[green]要让它工作，您需要在MOD管理器中将其放置于EuRoadNet上方。
+[normal]EuRoadNet的帖子链接：[blue]https://forum.scssoft.com/viewtopic.php?t=281488
+[normal]您可以使用下方的链接与其他人分享此模组。
+[blue]https://truckymods.io/euro-truck-simulator-2/map-patches/euroadnet-chinese-simplified-city-name
+[red]禁止重新上传或销售此模组！
