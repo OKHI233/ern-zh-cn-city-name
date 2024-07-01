@@ -10,6 +10,9 @@ localization_db : .localization
 		key[]: "bergenruegen"
 		val[]: "吕根岛贝尔根"
 
+		key[]: "bihofen"
+		val[]: "比绍夫斯霍芬"
+
 		key[]: "binz"
 		val[]: "宾茨"
 
@@ -21,6 +24,9 @@ localization_db : .localization
 
 		key[]: "bram"
 		val[]: "布拉姆"
+
+		key[]: "bregenz"
+		val[]: "布雷根茨"
 
 		key[]: "bremerhaven"
 		val[]: "不来梅哈芬"
@@ -34,17 +40,23 @@ localization_db : .localization
 		key[]: "budapest"
 		val[]: "布达佩斯"
 
+		key[]: "bulach"
+		val[]: "比拉赫"
+
 		key[]: "cbudejovice"
 		val[]: "捷克布杰约维采"
 
 		key[]: "cuxhaven"
 		val[]: "库克斯港"
 
-		key[]: "deutz"
-		val[]: "科隆-多伊茨"
+		key[]: "domat_ems"
+		val[]: "多马特"
 
 		key[]: "dorfmark"
 		val[]: "多夫马克"
+
+		key[]: "erlangen"
+		val[]: "埃朗根"
 
 		key[]: "fie"
 		val[]: "菲埃阿洛希利亚尔"
@@ -85,14 +97,20 @@ localization_db : .localization
 		key[]: "ibiza"
 		val[]: "伊维萨"
 
+		key[]: "icogne"
+		val[]: "伊科涅"
+
 		key[]: "jihlava"
 		val[]: "伊赫拉瓦"
 
 		key[]: "karkkila"
 		val[]: "卡尔基拉"
 
-		key[]: "koln"
-		val[]: "科隆"
+		key[]: "le_locle"
+		val[]: "勒洛克勒"
+
+		key[]: "lendorf"
+		val[]: "德劳河谷伦多夫"
 
 		key[]: "liberec"
 		val[]: "利贝雷茨"
@@ -102,6 +120,9 @@ localization_db : .localization
 
 		key[]: "merano"
 		val[]: "梅拉诺"
+
+		key[]: "michelhofen"
+		val[]: "米歇尔霍芬"
 
 		key[]: "mirosovice"
 		val[]: "米罗索维采"
@@ -133,6 +154,9 @@ localization_db : .localization
 		key[]: "rudersdorf"
 		val[]: "柏林附近吕德斯多夫"
 
+		key[]: "s_rh_e_bo"
+		val[]: "圣雷米昂博斯"
+
 		key[]: "saalfelden"
 		val[]: "石海山麓萨尔费尔登"
 
@@ -154,11 +178,20 @@ localization_db : .localization
 		key[]: "schonefeld"
 		val[]: "舍讷费尔德"
 
+		key[]: "sembrancher"
+		val[]: "桑布朗谢"
+
+		key[]: "st_marg"
+		val[]: "圣马格雷滕"
+
 		key[]: "stovring"
 		val[]: "斯特乌灵"
 
 		key[]: "stralsund"
 		val[]: "施特拉尔松德"
+
+		key[]: "susten"
+		val[]: "苏斯坦"
 
 		key[]: "tonder"
 		val[]: "岑讷"
@@ -199,11 +232,17 @@ localization_db : .localization
 		key[]: "wiek"
 		val[]: "维克"
 
+		key[]: "winklern"
+		val[]: "温克勒恩"
+
 		key[]: "wischhafen"
 		val[]: "维施哈芬"
 
 		key[]: "ystad"
 		val[]: "于斯塔德"
+
+		key[]: "zellamsee"
+		val[]: "滨湖采尔"
 
 		key[]: "zgorzelec"
 		val[]: "兹戈热莱茨"
@@ -221,7 +260,7 @@ localization_db : .localization
 		key[]: "glewitz"
 		val[]: "格莱维茨"
 
-		key[]: "glueckstadt.ern"
+		key[]: "glueckstadtf"
 		val[]: "格吕克施塔特"
 
 		key[]: "ibizaf"
@@ -254,7 +293,7 @@ localization_db : .localization
 		key[]: "wiekf"
 		val[]: "维克"
 
-		key[]: "wischhafen.ern"
+		key[]: "wischhafenf"
 		val[]: "维施哈芬"
 
 		key[]: "ystadf"
