@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "1.6"
+	package_version: "1.6-RP"
 
 	# Display name can be any string with any length.
-	display_name: "EuRoadNet Chinese (Simplified) City Name V1.6"
+	display_name: "EuRoadNet Chinese (Simplified) City Name V1.6-RP"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
