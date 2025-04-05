@@ -1,7 +1,7 @@
 ﻿
 city_data: city.brocken
 {
-	city_name: "Brocken"
+	city_name: "Brocken (1141 meter ü.NHN.)"
 	city_name_localized: "@@brocken@@"
 	country: germany
 

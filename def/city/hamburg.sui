@@ -24,7 +24,7 @@ city_data : city.hamburg
 	map_y_offsets[]: -17
 	map_y_offsets[]: -26
 
-	vehicle_brands[]: "man"
+	vehicle_brands[]: "iveco"
 
 	license_plate[]: .hamburg.lp.car
 }

@@ -1,0 +1,27 @@
+
+city_data : city.belvedere
+{
+	city_name: "Belvedere am Rhonegletscher"
+	city_name_localized: "@@belvedere@@"
+	country: switzerland
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -10
+	map_x_offsets[]: -19
+	map_x_offsets[]: -22
+	map_x_offsets[]: -20
+	map_x_offsets[]: -19
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -50
+	map_y_offsets[]: -22
+	map_y_offsets[]: -27
+
+}
+
