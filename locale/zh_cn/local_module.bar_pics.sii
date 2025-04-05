@@ -4,7 +4,7 @@ localization_db : .localization
 {
 
 	key[]: "ls_balkan_e_01"
-	val[]: "罗斯托克海外港口, 德国"
+	val[]: "罗斯托克海外港, 德国"
 	
 	key[]: "ls_balkan_e_02"
 	val[]: "利贝雷茨, 捷克共和国"

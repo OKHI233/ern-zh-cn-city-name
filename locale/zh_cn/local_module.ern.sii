@@ -7,6 +7,9 @@ localization_db : .localization
 		key[]: "aarhus"
 		val[]: "奥胡斯"
 
+		key[]: "belvedere"
+		val[]: "罗讷冰川美景酒店"
+
 		key[]: "bergenruegen"
 		val[]: "吕根岛贝尔根"
 
@@ -35,7 +38,7 @@ localization_db : .localization
 		val[]: "布雷萨诺内"
 
 		key[]: "brocken"
-		val[]: "布罗肯峰"
+		val[]: "布罗肯峰（海拔1141米）"
 
 		key[]: "budapest"
 		val[]: "布达佩斯"
@@ -67,6 +70,9 @@ localization_db : .localization
 		key[]: "forst"
 		val[]: "劳西茨地区福斯特"
 
+		key[]: "furkapass"
+		val[]: "富尔卡山口（海拔2436米）"
+
 		key[]: "garmisch"
 		val[]: "加米施-帕滕基兴"
 
@@ -75,6 +81,12 @@ localization_db : .localization
 
 		key[]: "goerlitz"
 		val[]: "勒包"
+
+		key[]: "grssglckner"
+		val[]: "大格洛克纳山（海拔3798米）"
+
+		key[]: "gruenheide"
+		val[]: "格林海德"
 
 		key[]: "hamburg"
 		val[]: "汉堡"
@@ -100,6 +112,9 @@ localization_db : .localization
 		key[]: "icogne"
 		val[]: "伊科涅"
 
+		key[]: "ittlingen"
+		val[]: "伊特林根"
+
 		key[]: "jihlava"
 		val[]: "伊赫拉瓦"
 
@@ -117,6 +132,15 @@ localization_db : .localization
 
 		key[]: "liege"
 		val[]: "列日"
+
+		key[]: "lindenberg"
+		val[]: "林登贝格"
+
+		key[]: "ludwigshafen"
+		val[]: "莱茵河畔路德维希港"
+
+		key[]: "maxdorf"
+		val[]: "马克斯多夫"
 
 		key[]: "merano"
 		val[]: "梅拉诺"
