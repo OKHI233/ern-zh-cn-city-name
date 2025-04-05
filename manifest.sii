@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "1.6b"
+	package_version: "1.7"
 
 	# Display name can be any string with any length.
-	display_name: "EuRoadNet Chinese (Simplified) City Name V1.6b"
+	display_name: "EuRoadNet Chinese (Simplified) City Name V1.7"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
@@ -24,7 +24,7 @@ mod_package : .package_name
 	description_file: "description.txt"
 
 	 
-	compatible_versions[]: "1.52.*" # Mod is compatible with 1.52.X..
+	compatible_versions[]: "1.54.*" # Mod is compatible with 1.54.X..
 
 	mp_mod_optional: true
 	
@@ -35,6 +35,7 @@ mod_package : .package_name
 	dlc_dependencies[]: "dlc_balt"
 	dlc_dependencies[]: "dlc_balkan_e"
 	dlc_dependencies[]: "dlc_iberia"
+	dlc_dependencies[]: "dlc_balkan_w"
 
 }
 }

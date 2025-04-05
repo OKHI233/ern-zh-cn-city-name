@@ -1,5 +1,5 @@
 [orange]----- English -----
-[orange]EuRoadNet Chinese (Simplified) City Name V1.6b
+[orange]EuRoadNet Chinese (Simplified) City Name V1.7
 [normal]A little add-on for EuRoadNet that makes Chinese (Simplified) localization works...
 [green]To make it works, you need to put it above EuRoadNet in the mod manager.  
 [normal]The thread link of EuRoadNet: [blue]https://forum.scssoft.com/viewtopic.php?t=281488
@@ -8,7 +8,7 @@
 [red]DO NOT RE-UPLOAD OR SELL THIS MOD! 
 
 [orange]----- 中文（简体） -----
-[orange]EuRoadNet中文（简体）城市名 V1.6b
+[orange]EuRoadNet中文（简体）城市名 V1.7
 [normal]一个用于EuRoadNet的小插件，让中文（简体）本地化起作用...
 [green]要让它工作，您需要在MOD管理器中将其放置于EuRoadNet上方。
 [normal]EuRoadNet的帖子链接：[blue]https://forum.scssoft.com/viewtopic.php?t=281488
