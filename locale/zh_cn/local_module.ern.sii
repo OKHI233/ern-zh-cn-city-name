@@ -7,6 +7,9 @@ localization_db : .localization
 		key[]: "aarhus"
 		val[]: "奥胡斯"
 
+		key[]: "arenal"
+		val[]: "阿雷纳尔"
+
 		key[]: "belvedere"
 		val[]: "罗讷冰川观景台"
 
@@ -100,12 +103,6 @@ localization_db : .localization
 		key[]: "hobro"
 		val[]: "霍布罗"
 
-		key[]: "hoppegarten"
-		val[]: "霍珀加滕"
-
-		key[]: "hörby"
-		val[]: "赫比"
-
 		key[]: "ibiza"
 		val[]: "伊维萨"
 
@@ -175,9 +172,6 @@ localization_db : .localization
 		key[]: "rothensee"
 		val[]: "罗腾湖"
 
-		key[]: "rudersdorf"
-		val[]: "柏林附近吕德斯多夫"
-
 		key[]: "s_rh_e_bo"
 		val[]: "圣雷米昂博斯"
 
@@ -187,20 +181,8 @@ localization_db : .localization
 		key[]: "sassnitz"
 		val[]: "萨斯尼茨"
 
-		key[]: "schandau"
-		val[]: "巴特尚道"
-
 		key[]: "schierke"
 		val[]: "席尔克"
-
-		key[]: "schmilka"
-		val[]: "施米尔卡"
-
-		key[]: "schoenefeld"
-		val[]: "舍讷费尔德"
-
-		key[]: "schonefeld"
-		val[]: "舍讷费尔德"
 
 		key[]: "sembrancher"
 		val[]: "桑布朗谢"
@@ -240,9 +222,6 @@ localization_db : .localization
 
 		key[]: "visselhovede"
 		val[]: "菲瑟尔赫沃德"
-
-		key[]: "vogelsdorf"
-		val[]: "福格尔斯多夫"
 
 		key[]: "walsrode"
 		val[]: "瓦尔斯罗德"
