@@ -208,9 +208,6 @@ localization_db : .localization
 		key[]: "turow"
 		val[]: "谢尼亚夫卡"
 
-		key[]: "urjala"
-		val[]: "乌尔亚拉"
-
 		key[]: "varde"
 		val[]: "瓦德"
 
