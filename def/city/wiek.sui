@@ -2,7 +2,7 @@
 city_data : city.wiek
 {
 	city_name: "Wiek"
-	city_name_localized: "@@wiek@@"
+	city_name_localized: "@@wiek.ci@@"
 	country: germany
 
 	map_x_offsets[]: 0

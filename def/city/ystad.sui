@@ -2,7 +2,7 @@
 city_data : city.ystad
 {
 	city_name: "Ystad"
-	city_name_localized: "@@ystad@@"
+	city_name_localized: "@@ystad.ci@@"
 	country: sweden
 
 	map_x_offsets[]: 0

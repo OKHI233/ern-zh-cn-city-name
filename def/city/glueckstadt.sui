@@ -2,7 +2,7 @@
 city_data: city.glueckstadt
 {
 	city_name: "Glückstadt"
-	city_name_localized: "@@glueckstadt@@"
+	city_name_localized: "@@glueckstadt.ci@@"
 	country: germany
 	
     vehicle_brands[]: "man"

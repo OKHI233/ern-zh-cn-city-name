@@ -2,7 +2,7 @@
 city_data: city.ibiza
 {
 	city_name: "Ibiza"
-	city_name_localized: "@@ibiza@@"
+	city_name_localized: "@@ibiza.ci@@"
 	country: spain
 	
 	map_x_offsets[]: 0

@@ -2,7 +2,7 @@
 city_data: city.wischhafen
 {
 	city_name: "Wischhafen"
-	city_name_localized: "@@wischhafen@@"
+	city_name_localized: "@@wischhafen.ci@@"
 	country: germany
 	
     vehicle_brands[]: "man"
