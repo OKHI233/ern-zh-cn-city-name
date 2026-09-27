@@ -79,7 +79,7 @@ localization_db : .localization
 		key[]: "garmisch"
 		val[]: "加米施-帕滕基兴"
 
-		key[]: "glueckstadt"
+		key[]: "glueckstadt.ci"
 		val[]: "格吕克施塔特"
 
 		key[]: "goerlitz"
@@ -103,7 +103,7 @@ localization_db : .localization
 		key[]: "hobro"
 		val[]: "霍布罗"
 
-		key[]: "ibiza"
+		key[]: "ibiza.ci"
 		val[]: "伊维萨"
 
 		key[]: "icogne"
@@ -154,7 +154,7 @@ localization_db : .localization
 		key[]: "oldenburg"
 		val[]: "奥尔登堡"
 
-		key[]: "palma"
+		key[]: "palma.ci"
 		val[]: "帕尔马"
 
 		key[]: "perpignan"
@@ -229,16 +229,16 @@ localization_db : .localization
 		key[]: "whv"
 		val[]: "威廉港"
 
-		key[]: "wiek"
+		key[]: "wiek.ci"
 		val[]: "维克"
 
 		key[]: "winklern"
 		val[]: "温克勒恩"
 
-		key[]: "wischhafen"
+		key[]: "wischhafen.ci"
 		val[]: "维施哈芬"
 
-		key[]: "ystad"
+		key[]: "ystad.ci"
 		val[]: "于斯塔德"
 
 		key[]: "zellamsee"
@@ -254,26 +254,26 @@ localization_db : .localization
 		key[]: "barcelona"
 		val[]: "巴塞罗那"
 
-		key[]: "bonifaciof"
+		key[]: "bonifacio"
 		val[]: "博尼法乔"
 
 		key[]: "glewitz"
 		val[]: "格莱维茨"
 
-		key[]: "glueckstadtf"
+		key[]: "glueckstadt.fe"
 		val[]: "格吕克施塔特"
 
-		key[]: "ibizaf"
+		key[]: "ibiza.fe"
 		val[]: "伊维萨"
 
 		key[]: "mukran"
 		val[]: "新木兰"
 
-		key[]: "palmaf"
-		val[]: "帕尔马 - 皮港"
+		key[]: "palma.fe"
+		val[]: "帕尔马（皮港）"
 
 		key[]: "palmadem"
-		val[]: "帕尔马 - 港口"
+		val[]: "帕尔马（港口）"
 
 		key[]: "rostockb"
 		val[]: "罗斯托克海外港西南部"
@@ -290,13 +290,13 @@ localization_db : .localization
 		key[]: "trent"
 		val[]: "特伦特"
 
-		key[]: "wiekf"
+		key[]: "wiek.fe"
 		val[]: "维克"
 
-		key[]: "wischhafenf"
+		key[]: "wischhafen.fe"
 		val[]: "维施哈芬"
 
-		key[]: "ystadf"
+		key[]: "ystad.fe"
 		val[]: "于斯塔德"
 
 
