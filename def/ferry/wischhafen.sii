@@ -1,6 +1,6 @@
 ferry_data: ferry.wischhafen
 {
 	ferry_name: "Wischhafen"
-	ferry_name_localized: "@@wischhafenf@@"
+	ferry_name_localized: "@@wischhafen.fe@@"
 		
 }
