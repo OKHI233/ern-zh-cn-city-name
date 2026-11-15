@@ -34,7 +34,7 @@ city_data: city.bremerhaven
 	city_pin_scale_factor[]: 0.8  // middle zoom for world map
 	city_pin_scale_factor[]: 0.8  // whole world map zoom
 	
-	truck_lp_template[]:"BO033 21"
+	truck_lp_template[]:"HB033 21"
 
 	truck_lp_def0[]:"<offset hshift=4 vshift=-5><img src=/material/ui/lp/germany/b.mat color=FFFFFFFF><offset hshift=4 vshift=5>"
 
