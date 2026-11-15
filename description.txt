@@ -1,4 +1,4 @@
-[orange]EuRoadNet Chinese (Simplified) City Name 2.60
+[orange]EuRoadNet Chinese (Simplified) City Name 2.62
 [normal]A little add-on for EuRoadNet that makes Chinese (Simplified) localization works...
 [normal]You need to put it above EuRoadNet in the mod manager.
 

@@ -1,4 +1,4 @@
-[orange]EuRoadNet中文（简体）城市名 2.60
+[orange]EuRoadNet中文（简体）城市名2.62
 [normal]一个让中文（简体）本地化起作用的EuRoadNet小插件...
 [normal]您需要在mod管理器中将其放置于EuRoadNet上方。
 
